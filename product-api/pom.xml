@@ -92,6 +92,12 @@
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-consul-config</artifactId>
         </dependency>
+        <dependency>
+            <groupId>br.edu.atitus</groupId>
+            <artifactId>currency-api</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+            <scope>compile</scope>
+        </dependency>
     </dependencies>
 
     <build>
